@@ -16,7 +16,6 @@ The following components have been implemented and tested:
 * Vehicle detection using YOLO models
 * License plate detection using YOLO models
 * Cropping of license plate regions from detected vehicles
-* Incident classification using CNN and MobileNetV2 models
 * Model training and evaluation using image datasets
 
 ⚠️ **Note:**
